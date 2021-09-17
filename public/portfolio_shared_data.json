@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Eddie Ponce",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student at Code Fellows | Junior Software Developer | Freelance Web Developer | USMC Veteran" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfilePicture.jpg"
     },
     "skills": {
       "icons": [
