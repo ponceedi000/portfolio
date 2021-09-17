@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Eddie Ponce",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student at Code Fellows | Junior Software Developer | Freelance Web Developer | USMC Veteran" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ponceedi000",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/eddie-ponce/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfilePicture.jpg"
     },
     "skills": {
       "icons": [
