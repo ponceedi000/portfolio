@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ponceedi000",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/eddie-ponce/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfilePicture.jpg"
