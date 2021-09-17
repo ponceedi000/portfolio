@@ -35,46 +35,42 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Mad Library",
+        "startDate": "09/2021",
+        "description": "My group and I created a Mad Lib inspired web applet entitled 'Mad Librarians'. The purpose of the website is to provide a fun and interactive story building platform. It contains fun templatized story outlines that with the input of user imagination, generates fun and hilarious stories. My primary role for this project was to create structure and add styling to the webpage’s utilizing CSS3 and HTML 5.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/mad-library/p1.jpg",
+          "images/portfolio/mad-library/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain-wordmark colored",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "CIK Studio, LLC",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "I created a responsive website for my personally owned business called CIK Studio. This particular project was created through the use of a website builder named Wix. Aside from building projects with ‘raw code’, I also enjoy freelancing on the side with website builders such as Wix, WordPress, and Elementor!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/cik-studio/p1.jpg",
+          "images/portfolio/cik-studio/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.cik-studio.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "fab fa-wix",
+            "name": "Wix"
           }
         ]
       }
