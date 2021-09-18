@@ -77,37 +77,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CIK Studio",
+        "title": "Web Designer",
+        "years": "Jan 2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Wix"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Wix",
+          "WordPress",
+          "Elementor"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Marine Corps",
+        "title": "Ground Intelligence Analyst",
+        "years": "Aug 2016 - Jul 2021",
         "mainTech": [
-          "Angular 7/8"
+          "MCEN SIPR"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Falcon View",
+          "C2PC",
+          "Caltopo",
+          "Microsoft Office"
         ]
       }
     ]
