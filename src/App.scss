@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	color: white;
+	font-size: 1.8rem;
 }
 
 .title-styles {
@@ -38,7 +40,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #AABDBF;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -92,7 +94,7 @@ header .nav {
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 10rem;
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
@@ -231,8 +233,9 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #735B53;
 }
+
 
 .experience-icon {
 	font-size: 300%;
@@ -353,7 +356,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #735B53;
 	padding-bottom: 5%;
 }
 
