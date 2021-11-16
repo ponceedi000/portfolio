@@ -1,115 +1,132 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Nazywam się Eddie Ponce i jestem programistą z Vancouver w stanie WA. Jestem także weteranem USMC, który służył pięć lat w służbie czynnej jako analityk wywiadu naziemnego / sierżant plutonu i otrzymał wiele nagród i certyfikatów podczas mojej służby. Zdecydowałem się na rozwój oprogramowania ze względu na aspekt rozwiązywania problemów / krytycznego myślenia w pracy i lubię myśleć o sobie jako o logicznym myślicielu. Piszę kod prawie codziennie i lubię uczyć się o nowych technologiach w czasie wolny! Niektóre umiejętności zawodowe, które nabywam, to przywództwo, rozwiązywanie problemów, praca zespołowa, świadomość handlowa, wytrwałość i motywacja. Staram się wywrzeć pozytywny wpływ na moją następną przestrzeń roboczą i stale kwestionować moje ograniczenia jako przyszły programista. 💜",
+      "description_header": "¡Bienvenido!",
+      "description": "👋 Mi nombre es Eddie Ponce y soy un desarrollador de software de Vancouver, WA. También soy un veterano del USMC que cumplí cinco años en servicio activo como Analista de Inteligencia Terrestre / Sargento de Pelotón durante mi tiempo en el servicio. Elegí ingresar al Desarrollo de Software debido al aspecto de resolución de problemas / pensamiento crítico del trabajo y me gusta pensar en mí mismo como un pensador lógico. ¡Escribo código casi todos los días y disfruto aprendiendo sobre nuevas tecnologías en mi tiempo libre! Algunas de las habilidades profesionales que adquiero son liderazgo, resolución de problemas, trabajo en equipo, conciencia comercial, perseverancia y motivación. Estoy buscando generar un impacto positivo en mi próximo espacio de trabajo y desafiar continuamente mis límites como futuro desarrollador de software.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mí",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Trip Perfect",
+        "startDate": "10/2021",
+        "description": "La aplicación más expandida con la que tuve la oportunidad de trabajar. Aprendí muchas tecnologías el año pasado y esta aplicación aplica todo lo que sé a este punto. Esta aplicación web utiliza la pila MERN, la API TicketMaster y React-Bootstrap. Cuando se busca una ciudad, mi código de back-end maneja todas las solicitudes HTTP y entrega los datos correspondientes al front-end.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/tripperfect/TPHome.png",
+          "images/portfolio/tripperfect/TPSavedEvents.png"
         ],
-        "url": "",
+        "url": "https://tripperfect.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-mongodb-plain colored",
+            "name": "MongoDB"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original colored",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark colored",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "React-Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Mad Library",
+        "startDate": "09/2021",
+        "description": "Mi grupo y yo creamos un subprograma web inspirado en Mad Lib titulado 'Bibliotecarios locos'. El propósito del sitio web es proporcionar una plataforma de construcción de historias divertida e interactiva. Contiene divertidos esquemas de historias en plantillas que, con la aportación de la imaginación del usuario, genera historias divertidas e hilarantes. Mi función principal para este proyecto fue crear estructura y agregar estilo a la página web utilizando CSS3 y HTML 5.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/mad-library/p1.jpg",
+          "images/portfolio/mad-library/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain-wordmark colored",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "CIK Studio",
+        "startDate": "01/2021",
+        "description": "Creé un sitio web receptivo para mi negocio de propiedad personal llamado CIK Studio. Este proyecto en particular fue creado mediante el uso de un creador de sitios web llamado Wix. Además de crear proyectos con 'código sin formato', también disfruto trabajar independientemente con creadores de sitios web como Wix, WordPress y Elementor.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/cik-studio/p1.jpg",
+          "images/portfolio/cik-studio/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.cik-studio.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "fab fa-wix",
+            "name": "Wix"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "KXRW Vancouver",
+        "title": "Asistente de desarrollador web",
+        "years": "Oct 2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "WordPress"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Elementor"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "CIK Studio",
+        "title": "Diseñador web",
+        "years": "Jan 2021 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Wix"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "Wix",
+          "WordPress",
+          "Elementor"
+        ]
+      },
+      {
+        "company": "Cuerpo de Marines de los Estados Unidos",
+        "title": "Analista de inteligencia terrestre",
+        "years": "Aug 2016 - Jul 2021",
+        "mainTech": [
+          "MCEN SIPR"
+        ],
+        "technologies": [
+          "Falcon View",
+          "C2PC",
+          "Caltopo",
+          "Microsoft Office"
         ]
       }
     ]
