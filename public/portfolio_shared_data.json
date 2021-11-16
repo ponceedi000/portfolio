@@ -29,19 +29,34 @@
           "level": "95"
         },
         {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "80"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "60"
         },
         {
           "name": "React",
           "class": "devicon-react-original",
-          "level": "75"
+          "level": "70"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
         }
       ]
     }
