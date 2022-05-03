@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Welcome!",
-      "description": "👋 My name is Eddie Ponce, and I am a Software Developer from Vancouver, WA. I am also a USMC Veteran who served five years on Active-Duty orders as a Ground Intelligence Analyst/Platoon Sergeant during my time in service. I chose to get into Software Development because of the problem solving/critical-thinking aspect of the job and I like to think of myself as a logical thinker. I write code just about everyday and enjoy learning about new technology on my off time! Some professional skills I acquire are leadership, problem-solving, teamwork, commercial awareness, perseverance, and motivation. I'm seeking to make a positive impact in my next workspace and to continuously challenge my limits as a soon-to-be Software Developer.",
+      "description": "👋 Hello, my name is Eddie Ponce, and I am a Full Stack Software Developer based out of Vancouver, WA. I am also a USMC Veteran who served five years on Active-Duty orders as a Ground Intelligence Analyst and later became a Regimental Intelligence Chief. During my honorable service I received multiple awards and certifications in both CONUS and O-CONUS operations. I chose to get into Software Development because of the problem solving/critical-thinking aspect of the job, similar to my past duties as an Analyst. I write code just about every day and enjoy learning about newly released technology on my spare time! Though I am happiest with front-end development, I've recently grown a huge interest in back-end development too! My ultimate goal is to make a positive impact in my next workspace and to continuously challenge my limits as a Software Developer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,6 +10,26 @@
       }
     },
     "projects": [
+      {
+        "title": "Zoomify Attendance Checker",
+        "startDate": "02/2022",
+        "description": "An efficient CLI program used for Zoom organizations to easily track attendance of meeting participants. Built with Python 3.9, utilizing Zoom's API to gather meeting information, and Google's API to export information into a presentable and useful data table.",
+        "images": [
+          "images/portfolio/zoomify/zoomify.JPG",
+          "images/portfolio/zoomify/zoomify_pd.JPG"
+        ],
+        "url": "https://github.com/Zoomify-Inc/zoomify",
+        "technologies": [
+          {
+            "class": "devicon-python-plain-wordmark colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-google-plain colored",
+            "name": "Google Sheets"
+          }
+        ]
+      },
       {
         "title": "Trip Perfect",
         "startDate": "10/2021",
@@ -65,22 +85,6 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "CIK Studio",
-        "startDate": "01/2021",
-        "description": "I created a responsive website for my personally owned business called CIK Studio. This particular project was created through the use of a website builder named Wix. Aside from building projects with ‘raw code’, I also enjoy freelancing on the side with website builders such as Wix, WordPress, and Elementor!",
-        "images": [
-          "images/portfolio/cik-studio/p1.jpg",
-          "images/portfolio/cik-studio/p2.jpg"
-        ],
-        "url": "https://www.cik-studio.com",
-        "technologies": [
-          {
-            "class": "fab fa-wix",
-            "name": "Wix"
-          }
-        ]
       }
     ],
     "experience": [
@@ -96,6 +100,24 @@
           "CSS3",
           "JavaScript",
           "Elementor"
+        ]
+      },
+      {
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "Jul 2021 - May 2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "MERN Stack",
+          "Next.js",
+          "Python",
+          "Django",
+          "PostgreSQL"
         ]
       },
       {

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Eddie Ponce",
-      "titles": [ "Student at Code Fellows | Junior Software Developer | Freelance Web Developer | USMC Veteran" ],
+      "titles": [ "Junior Software Developer | Freelance Web Developer | USMC Veteran" ],
       "social": [
         {
           "name": "github",
@@ -56,6 +56,26 @@
         {
           "name": "Node",
           "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-original",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain-wordmark",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "70"
         }
       ]

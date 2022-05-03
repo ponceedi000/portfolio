@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Bienvenido!",
-      "description": "👋 Mi nombre es Eddie Ponce y soy un desarrollador de software de Vancouver, WA. También soy un veterano del USMC que cumplí cinco años en servicio activo como Analista de Inteligencia Terrestre / Sargento de Pelotón durante mi tiempo en el servicio. Elegí ingresar al Desarrollo de Software debido al aspecto de resolución de problemas / pensamiento crítico del trabajo y me gusta pensar en mí mismo como un pensador lógico. ¡Escribo código casi todos los días y disfruto aprendiendo sobre nuevas tecnologías en mi tiempo libre! Algunas de las habilidades profesionales que adquiero son liderazgo, resolución de problemas, trabajo en equipo, conciencia comercial, perseverancia y motivación. Estoy buscando generar un impacto positivo en mi próximo espacio de trabajo y desafiar continuamente mis límites como futuro desarrollador de software.",
+      "description": "👋 Hola, mi nombre es Eddie Ponce y soy un desarrollador de software de pila completa con sede en Vancouver, WA. También soy un veterano de USMC que sirvió cinco años en órdenes de servicio activo como analista de inteligencia terrestre y luego se convirtió en jefe de inteligencia de regimiento. Durante mi honorable servicio recibí múltiples premios y certificaciones en operaciones CONUS y O-CONUS. Elegí dedicarme al desarrollo de software debido al aspecto de resolución de problemas/pensamiento crítico del trabajo, similar a mis deberes anteriores como analista. ¡Escribo código casi todos los días y disfruto aprendiendo sobre tecnología recién lanzada en mi tiempo libre! Aunque estoy más feliz con el desarrollo front-end, ¡recientemente también he desarrollado un gran interés en el desarrollo back-end! Mi objetivo final es tener un impacto positivo en mi próximo espacio de trabajo y desafiar continuamente mis límites como desarrollador de software.",
       "section_name": {
         "about": "Sobre mí",
         "projects": "Proyectos",
@@ -10,6 +10,26 @@
       }
     },
     "projects": [
+      {
+        "title": "Zoomify Attendance Checker",
+        "startDate": "02/2022",
+        "description": "Un programa CLI eficiente utilizado por las organizaciones de Zoom para rastrear fácilmente la asistencia de los participantes de la reunión. Construido con Python 3.9, utiliza la API de Zoom para recopilar información de la reunión y la API de Google para exportar información a una tabla de datos presentable y útil.",
+        "images": [
+          "images/portfolio/zoomify/zoomify.JPG",
+          "images/portfolio/zoomify/zoomify_pd.JPG"
+        ],
+        "url": "https://github.com/Zoomify-Inc/zoomify",
+        "technologies": [
+          {
+            "class": "devicon-python-plain-wordmark colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-google-plain colored",
+            "name": "Google Sheets"
+          }
+        ]
+      },
       {
         "title": "Trip Perfect",
         "startDate": "10/2021",
@@ -65,23 +85,8 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "CIK Studio",
-        "startDate": "01/2021",
-        "description": "Creé un sitio web receptivo para mi negocio de propiedad personal llamado CIK Studio. Este proyecto en particular fue creado mediante el uso de un creador de sitios web llamado Wix. Además de crear proyectos con 'código sin formato', también disfruto trabajar independientemente con creadores de sitios web como Wix, WordPress y Elementor.",
-        "images": [
-          "images/portfolio/cik-studio/p1.jpg",
-          "images/portfolio/cik-studio/p2.jpg"
-        ],
-        "url": "https://www.cik-studio.com",
-        "technologies": [
-          {
-            "class": "fab fa-wix",
-            "name": "Wix"
-          }
-        ]
       }
+      
     ],
     "experience": [
       {
