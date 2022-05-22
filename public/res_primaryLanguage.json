@@ -11,6 +11,39 @@
     },
     "projects": [
       {
+        "title": "CachExplorer",
+        "startDate": "05/2022",
+        "description": "A geocaching web app that promotes exploring the outdoors for hidden cache, getting exercising, and socializing with your network. Built with NextJS, TailwindCSS, Django, Docker, PostgreSQL, ElephantSQL, AWS S3, and Google Maps API.",
+        "images": [
+          "images/portfolio/cachexplorer/cachexplorer_landing_page.JPG",
+          "images/portfolio/cachexplorer/cachexplorer_find_add_cache.JPG",
+          "images/portfolio/zoomify/zoomify_pd.JPG"
+        ],
+        "url": "https://github.com/dudes-of-color",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React/NextJS"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "TailwindCSS"
+          },
+          {
+            "class": "devicon-django-plain colored",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-docker-plain-wordmark colored",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-postgresql-plain-wordmark colored",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
         "title": "Zoomify Attendance Checker",
         "startDate": "02/2022",
         "description": "An efficient CLI program used for Zoom organizations to easily track attendance of meeting participants. Built with Python 3.9, utilizing Zoom's API to gather meeting information, and Google's API to export information into a presentable and useful data table.",
